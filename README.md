@@ -1,1 +1,1 @@
-# GMod Loading Screen
+# Garry's Mod Loading Screen
