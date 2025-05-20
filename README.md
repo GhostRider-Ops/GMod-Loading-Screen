@@ -1,1 +1,1 @@
-# GMod-Loading-Screen
+# GMod Loading Screen
